@@ -1,4 +1,4 @@
-### Oi! Eu sou o Samy David 🤠
+### Oi, tudo bem? Eu sou o Samy David 🤠
 
 
 - 📚 Cursando Engenharia de Software 1/8
