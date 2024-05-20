@@ -1,7 +1,7 @@
 ### Oi, tudo bem? Eu sou o Samy David 🤠
 
 
-- 📚 Cursando Engenharia de Software 1/8
+- 📚 Cursando Engenharia de Software 3/8
 - 🖥️ Procuro me tornar um Desenvolvedor FullStack
 <div align="center">
   <a href="https://github.com/Samy-David">
