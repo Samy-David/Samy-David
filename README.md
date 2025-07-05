@@ -1,8 +1,8 @@
 ### Oi, tudo bem? Eu sou o Samy David 🤠
 
 
-- 📚 Cursando Engenharia de Software 3/8
-- 🖥️ Procuro me tornar um Desenvolvedor FullStack
+- 📚 Cursando Engenharia de Software 6/8
+- 🖥️ Procuro me tornar um Desenvolvedor Front-end
 <div align="center">
   <a href="https://github.com/Samy-David">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samy-David&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
